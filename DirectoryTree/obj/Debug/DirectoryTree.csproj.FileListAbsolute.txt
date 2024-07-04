@@ -1,0 +1,11 @@
+C:\Personal\Work\DirectoryTree\DirectoryTree\bin\Debug\DirectoryTree.exe.config
+C:\Personal\Work\DirectoryTree\DirectoryTree\bin\Debug\DirectoryTree.exe
+C:\Personal\Work\DirectoryTree\DirectoryTree\bin\Debug\DirectoryTree.pdb
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.csproj.AssemblyReference.cache
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.csproj.SuggestedBindingRedirects.cache
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.MainForm.resources
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.Properties.Resources.resources
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.csproj.GenerateResource.cache
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.csproj.CoreCompileInputs.cache
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.exe
+C:\Personal\Work\DirectoryTree\DirectoryTree\obj\Debug\DirectoryTree.pdb
